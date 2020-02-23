@@ -1,4 +1,4 @@
-# point_1
+# Quiz App
 
 This was my first flutter app.Feel free to go through the codes and play with it.
 
