@@ -1,7 +1,7 @@
 # Quiz App
 
-This is my first flutter app.
-This App uses very the basic knowledge of flutter.
+This repository contains the codes to make an basic quiz app.The lib file contains all the .dart files and the other files are necessary
+in case you want to run the app in your device.
 Feel free to go through the codes and have fun!
 
 ## Getting Started
