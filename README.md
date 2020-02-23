@@ -1,6 +1,8 @@
 # Quiz App
 
-This was my first flutter app.Feel free to go through the codes and play with it.
+This is my first flutter app.
+This App uses very the basic knowledge of flutter.
+Feel free to go through the codes and have fun!
 
 ## Getting Started
 
