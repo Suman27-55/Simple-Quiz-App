@@ -1,6 +1,6 @@
 # point_1
 
-A new Flutter project.
+This was my first flutter app.Feel free to go through the codes and play with it.
 
 ## Getting Started
 
